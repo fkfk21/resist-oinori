@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/*",
+    "/home/fkfk21/.local/lib/python3.6/site-packages/*"
+  ]
+}
